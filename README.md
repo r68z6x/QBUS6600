@@ -1,5 +1,4 @@
-
-BUSINESS SCHOOL
+java cBUSINESS SCHOOL
 
 Page 1 of 4
 
@@ -43,7 +42,7 @@ Problem description
 
 Please start by reading through the Project Outline document for your industry project, which
 
-you can find on the 代做QBUS6600、代写Python编程语言'Learn about our industry projects' page in the Week 1 module on Canvas.
+you can find on the 'Learn about our industry projects' page in the Week 1 module on Canvas.
 
 Focus on the Problem Description section of the Project Outline, especially the first and
 
@@ -149,7 +148,8 @@ Your analysis is sufficiently rich, and your
 
 visualizations are insightful. You study key variables and relationships among them using
 
-appropriate plots and descriptive statistics. You note any features of the data that may be
+appropriate plots and descriptive statistics. You note any feature代 写QBUS6600、Python
+代做程序编程语言s of the data that may be
 
 relevant for model building in Assignment 2. You note the presence of outliers and any other
 
@@ -269,4 +269,5 @@ after the August 19 deadline is subject to a penalty of 20% for Assignment 1. Fu
 
 assignments without a submission of the online form will not be marked.
 
-  WX：codinghelp
+         
+加QQ：99515681  WX：codinghelp
